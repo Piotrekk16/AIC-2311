@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479887042 source:d:\pj\pojekt7_1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

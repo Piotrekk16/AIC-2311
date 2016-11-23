@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479888878 source:d:\pj\projekt7_2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
